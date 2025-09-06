@@ -23,7 +23,6 @@ PostgreSQL — asosiy ma’lumotlar bazasi
 Docker — containerized deployment
 
 
-
 2. Swagger’dan foydalanish
 
 API hujjatlari Swagger UI orqali taqdim etilgan.
@@ -38,7 +37,6 @@ Barcha endpoint’lar ro‘yxatini ko‘rishingiz mumkin.
 Parametrlar va javob misollari bilan tanishish mumkin.
 
 “Try it out” tugmasi orqali API’ni bevosita sinab ko‘rish mumkin.
-
 
 
 3. Ishga tushirish (Docker orqali)
