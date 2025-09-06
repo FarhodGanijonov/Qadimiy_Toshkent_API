@@ -42,7 +42,7 @@ Parametrlar va javob misollari bilan tanishish mumkin.
 3. Ishga tushirish (Docker orqali)
 git clone https://github.com/FarhodGanijonov/Qadimiy_Toshkent_API.git
 cd Qadimiy_Toshkent_API
-docker compose up --build
+"docker compose up --build"
 
 
 Server ishga tushgandan so‘ng:
